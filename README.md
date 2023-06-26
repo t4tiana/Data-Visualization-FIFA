@@ -1,7 +1,7 @@
 # Data-Visualization-FIFA
-## Using the [FIFA 2023 dataset from Kaggle](https://www.kaggle.com/datasets/bryanb/fifa-player-stats-database), Jupyter Notebooks, Pandas, Seaborn, and Bokeh
+## Using the [FIFA 2023 dataset from Kaggle](https://www.kaggle.com/datasets/bryanb/fifa-player-stats-database), Jupyter Notebook, Pandas, Seaborn, and Bokeh
 
-Once the data was imported as a CSV, I used Pandas in Jupyter Notebooks to create a dataframe of the following:
+Once the data was imported as a CSV, I used Pandas in Jupyter Notebook to create a dataframe of the following:
 
 - Player Name
 - Overall rating
